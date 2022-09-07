@@ -64,7 +64,7 @@ go get -u github.com/Squirrel-Network/gobotapi
 <hr>
 <p align="center">
     <a href="https://github.com/Squirrel-Network/GoBotApiGenerator">
-        <img width="300px" src=".github/static/logo2.svg" alt="gopher logo" />
+        <img width="300px" src="https://raw.githubusercontent.com/gobotapi/gobotapi/master/.github/static/logo2.svg" alt="gopher logo" />
     </a>
     <br>
     <br>
